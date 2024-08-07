@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="reminder">REMINDER</string>
+    <string name="btn_back"><![CDATA[<]]></string>
+    <string name="btnSave">Save</string>
+    <string name="btnAddPhoto">Add Photo</string>
+    <string name="confirm_delete_title">Подтверждение удаления</string>
+    <string name="confirm_delete_all_reminds_message">Вы уверены, что хотите удалить все заметки?</string>
+    <string name="confirm_delete_remind_message">Вы уверены, что хотите удалить заметку?</string>
+    <string name="all_notes_deleted">Все заметки удалены</string>
+    <string name="note_deleted">Заметка успешно удалена</string>
+    <string name="failed_to_pick_image">Ошибка загрузки фото</string>
+    <string name="note_text_empty">Текст не может быть пустым</string>
+    <string name="reminder_saved">Заметка успешно создана</string>
+</resources>
